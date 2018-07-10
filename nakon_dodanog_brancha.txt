@@ -1,1 +1,4 @@
 nakon_dodanog_brancha nekoime se branch zove
+
+
+izmjene na brancku zvanom nekoime
